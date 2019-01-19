@@ -1,3 +1,5 @@
+#A simple python program that rolls die and returns the number that has been rolled. Made by Hunter Oreair.
+
 from random import randint # imports randint. duh.
 
 min = 1 #sets the minimum value on the dice that you can roll
